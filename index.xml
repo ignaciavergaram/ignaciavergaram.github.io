@@ -61,5 +61,23 @@
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
+    <item>
+      <title>Encargo 5</title>
+      <link>/docs/encargo-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/encargo-5/</guid>
+      <description>Encargo de modelos 3D realizados en Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 6</title>
+      <link>/docs/encargo-6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/encargo-6/</guid>
+      <description>Encargo de ejercicio en Fusion 360, utilizando la herramienta de diseño generativo.</description>
+    </item>
+    
   </channel>
 </rss>
