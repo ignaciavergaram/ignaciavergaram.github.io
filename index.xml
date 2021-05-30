@@ -18,19 +18,19 @@
     
     <item>
       <title>Encargo 1</title>
-      <link>/docs/encargo1/</link>
+      <link>/docs/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/encargo1/</guid>
+      <guid>/docs/encargo-1/</guid>
       <description>Encargo de composiciones de luz.</description>
     </item>
     
     <item>
       <title>Encargo 2</title>
-      <link>/docs/encargo2/</link>
+      <link>/docs/encargo-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/encargo2/</guid>
+      <guid>/docs/encargo-2/</guid>
       <description>Encargo de composiciones de luz análogas y digitales.</description>
     </item>
     
@@ -95,6 +95,15 @@
       
       <guid>/docs/encargo-9/</guid>
       <description>Avance examen para el día Lunes 10 de Mayo.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 10</title>
+      <link>/docs/encargo-10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/encargo-10/</guid>
+      <description>Avance examen para el día Lunes 17 de Mayo.</description>
     </item>
     
     <item>
