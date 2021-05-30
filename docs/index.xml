@@ -98,15 +98,6 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>Examen</title>
       <link>/docs/examen/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -122,6 +113,15 @@
       
       <guid>/docs/sofware/</guid>
       <description>Tutorial de Software creativo - Spark AR Studio</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
